@@ -45,5 +45,6 @@ int main(){
         cout << "Enter the number: ";
         cin>>n;
         pattern4(n);
-    
+    }
 }
+
